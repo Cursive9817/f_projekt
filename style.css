@@ -1,0 +1,85 @@
+/* CSS Norbert Bańka */
+body { margin:0; padding-top:30px; 
+           
+          font-family: Arial, Helvetica, Sans-serif ;
+          }
+
+a{ color:#069; text-decoration:underline; } 
+a:hover { text-decoration:none; } 
+
+h1,h2,h3,h4 p { margin:0; padding:5px; } 
+
+.pds{
+        width:1000px; 
+        margin:auto; 
+        position:relative;
+       }
+.baner{
+        position:top;
+        left: 11px;
+        top: 50px;
+} 
+
+.left{ 
+        float:left; 
+        width:190px;
+        padding-left:35px;
+        font-family:"Verdana","Tahoma","sans-serif";
+        }
+.right{ 
+        float:right;
+        width:700px;
+        padding-right:40px;
+        color:#7F6C68;
+        font-size:12px;
+        font-family:"Verdana","Tahoma","sans-serif"
+        } 
+        
+    
+
+.m ul{ list-style:none; margin:0; padding:0; } 
+.m li{ padding:1px;}
+.m a{  display:block; padding:8px 30px; font-size:12px; font-weight:bold; background:#3B0F0F; border-bottom:2px solid  #A32E2E; color:#fff; text-decoration:none;}
+.m a:hover{border-bottom:2px solid  #FF9; background:#691717;} 
+.m a span{ font-size:11px; font-weight:normal; display:block;}
+
+.ng{ font-size:20px; font-weight:normal; color:#EEDE81; font-family:"Verdana","Tahoma","sans-serif";
+      }
+
+
+.center{ text-align:center;}
+
+.stopka{ padding:10px 50px 50px 30px; color:#966356; font-size:12px;  }
+.stopka span{ color: #FC6; font-weight:bold; }
+
+.both{ clear:both; } 
+
+.ramki {
+         border-left:1px solid Gray;
+         border-right:1px solid Gray;
+         border-top:1px solid Gray;
+         border-bottom:1px solid Gray;
+       }
+       
+.ramki2 {
+         border-left:1px solid Gray;
+         border-right:1px solid Gray;
+         border-bottom:1px solid Gray;
+       }
+
+.opis {
+         font-family:"Verdana","Tahoma","sans-serif";
+         color:#EEDE81;
+         font-size:10pt;
+        }
+.opis1 {
+         font-family:"Verdana","Times New Roman","Verdana","Tahoma","sans-serif"; 
+         color:#EEDE81;
+         font-size:10pt;
+         font-weight:bold;
+        }
+form {
+		 font-family:"Verdana","Tahoma","sans-serif";
+         color:#EEDE81;
+         font-size:14px;
+}
